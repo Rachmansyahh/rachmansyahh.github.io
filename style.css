@@ -1,0 +1,18 @@
+.banner{
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/87/497/245/5bf5199a80a79-wallpaper-preview.jpg);
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: white;
+}
+.kotak {
+    display: inline-block;
+    border-radius: 100%;
+    width: 150px;
+}
+.Layanan {
+    background-color: #808080;
+}
+#Layanan {
+    padding-top: 2em;
+}
